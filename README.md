@@ -12,7 +12,7 @@ standards.
 
 | Date | Link |
 |------|------|
-| December 4, 2020 | [link](https://github.com/ga4gh/ga4gh-copyright-policy/blob/master/Draft%20Copyright%20Policy%2019%20Sept%2019) |
+| December 4, 2020 | [link](https://github.com/ga4gh/ga4gh-copyright-policy/blob/master/Draft%20Copyright%20Policy%2004%20Dec%2020.md) |
 | September 19, 2019 | [link](https://github.com/ga4gh/ga4gh-copyright-policy/blob/master/Draft%20Copyright%20Policy%2019%20Sept%2019)
 
 
