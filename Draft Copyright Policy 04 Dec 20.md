@@ -34,7 +34,7 @@ The purposes of this GA4GH Copyright Policy ("Policy") are to:
 
     7. Ensure consistency and coherence between this copyright policy and other GA4GH IP policies (i.e., trademark, patent).
 
-2. **DEFINITIONS **
+2. **DEFINITIONS**
 
     1. Apache License – the Apache 2.0 License, a copy of which is attached hereto as Appendix A.
 
@@ -84,7 +84,7 @@ The purposes of this GA4GH Copyright Policy ("Policy") are to:
 
 5. **LICENSE GRANTED BY GA4GH FOR RELEASED DOCUMENTS**
 
-    1. **Grant of License **- GA4GH grants to each User, solely to the extent of GA4GH’s legal right to do so, a perpetual, nonexclusive, royalty-free, non-sublicensable, worldwide licence to copy, distribute, and create derivative works of each Released Document, under all copyrights and related rights therein (including moral rights and rights of authors), for any purpose.
+    1. **Grant of License**- GA4GH grants to each User, solely to the extent of GA4GH’s legal right to do so, a perpetual, nonexclusive, royalty-free, non-sublicensable, worldwide licence to copy, distribute, and create derivative works of each Released Document, under all copyrights and related rights therein (including moral rights and rights of authors), for any purpose.
 
     2. **Attribution and Notice** – Each User agrees to include in every reproduction, in whole or in substantial part, of any Released Document the following notifications: (1) the text "Created by GA4GH" and (2) any copyright notice that is included in the Released Document and (3) the text “Use and reproduction of this document is subject to the terms of the GA4GH Copyright Policy, a current version of which may be found at http://______________”. Such text shall be included in one or more prominent locations within and/or associated with the relevant document or item (e.g., in the header file, metadata).
 
