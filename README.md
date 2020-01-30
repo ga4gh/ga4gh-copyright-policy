@@ -8,11 +8,4 @@ users around the world. The Policy closely reflects existing GA4GH community
 practices, in order to facilitate open participation in and use of GA4GH 
 standards.
 
-## Draft Versions
-
-| Date | Link |
-|------|------|
-| December 4, 2020 | [link](https://github.com/ga4gh/ga4gh-copyright-policy/blob/master/Draft%20Copyright%20Policy%2004%20Dec%2020.md) |
-| September 19, 2019 | [link](https://github.com/ga4gh/ga4gh-copyright-policy/blob/master/Draft%20Copyright%20Policy%2019%20Sept%2019)
-
-
+The latest draft is available [here](https://github.com/ga4gh/ga4gh-copyright-policy/blob/master/DraftCopyrightPolicy.md)
